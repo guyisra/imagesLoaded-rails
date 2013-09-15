@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Guy Israeli"]
   spec.description   = %q{imagesLoaded.js Wrapper for Rails 3.1+ Asset Pipeline }
   spec.summary       = %q{Asset pipeline is like "I'll take care of that js for you sir" and Rails is like "You know thats right! and what about them images?!"}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/guyisra/imagesLoaded-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
