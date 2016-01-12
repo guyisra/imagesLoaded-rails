@@ -1,3 +1,3 @@
 module ImagesLoadedRails
-  VERSION = "3.1.8"
+  VERSION = "4.0.0"
 end
